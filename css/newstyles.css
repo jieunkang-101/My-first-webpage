@@ -1,0 +1,21 @@
+h1 {
+  color: #4E1C6D;
+  background-color: #F4E9FC;
+}
+
+h3 { 
+  color: #A68DB6;
+}
+
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: bisque;
+}
+
+ul {
+  font-size: 30px;
+}
+
+li {
+  font-size: 20px;
+}
